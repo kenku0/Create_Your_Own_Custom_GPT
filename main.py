@@ -1,7 +1,7 @@
 import streamlit as st
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'Insert Your API Key Here'
 
 st.title("Happy Dog GPT (Example)")
 
